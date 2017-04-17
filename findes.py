@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #-*-coding:utf-8-*-
 from argparse import ArgumentParser
 from os import name, system, walk, path
